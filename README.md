@@ -20,4 +20,3 @@
 `Python` `TypeScript` `React` `FastAPI` `PostgreSQL` `ESP32` `C++` `Docker`
 
 ---
-📍 Santiago, Chile
